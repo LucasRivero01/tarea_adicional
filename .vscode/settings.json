@@ -1,0 +1,12 @@
+{
+   "editor.codeActionsOnSave": {
+      "source.fixAll.eslint":true
+   },
+   "cSpell.words": [
+      "lectura"
+   ],
+   "cSpell.ignoreRegExpList": [
+      ".*"
+    ],
+    "eslint linebreak-style": ["error", "windows"],
+}
